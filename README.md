@@ -1,6 +1,4 @@
-# markers
-
-Utility Enhanced.
+# Markers - Utility Enhanced.
 
 ## Getting Started
 
